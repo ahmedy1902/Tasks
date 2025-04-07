@@ -1,0 +1,48 @@
+{
+  "tasks": [
+    {
+      "id": "b507",
+      "name": "Task 1",
+      "description": "Description 1",
+      "deadline": "2025-04-24T21:16",
+      "status": "finished",
+      "userId": "135c"
+    },
+    {
+      "id": "c125",
+      "name": "Task 2",
+      "description": "Description 2",
+      "deadline": "2025-04-19T21:19",
+      "status": "finished",
+      "userId": "b614"
+    },
+    {
+      "id": "7450",
+      "name": "Task 3",
+      "description": "Description 3",
+      "deadline": "2025-04-17T21:20",
+      "status": "pending",
+      "userId": "b614"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "test@example.com",
+      "username": "testuser",
+      "password": "$2b$10$TWn7kE89JNtQmA8JWbyN6eZhmju5T/wHvRxWxKI4yKVxObkpuVDVe"
+    },
+    {
+      "id": "135c",
+      "email": "ahmedy1902@gmail.com",
+      "username": "ahmedy1902",
+      "password": "$2b$10$a86J2OlpVK0ifIOexhmOUutUrf9vGgI1M8h2yJv7a0fGSzRvp9kjq"
+    },
+    {
+      "id": "b614",
+      "email": "ahmedy11902@gmail.com",
+      "username": "ahmedy11902@gmail.com",
+      "password": "$2b$10$z7YhRLUCH7UcPsbaxiUXc.u8do1Zx4jDypadliZcpI9yMcpVN7WU2"
+    }
+  ]
+}
