@@ -1,12 +1,27 @@
-# React + Vite
+🚀 Task Management Application - React.js Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I've developed a comprehensive task management application using modern web technologies. Here are the key features and technologies used:
 
-Currently, two official plugins are available:
+🛠️ Tech Stack:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js with Vite
+Redux Toolkit for state management
+React Router for navigation
+Tailwind CSS for styling
+JSON Server for backend simulation
+Bcrypt.js for password encryption
+✨ Key Features:
 
-## Expanding the ESLint configuration
+Secure user authentication system
+CRUD operations for tasks
+Real-time task status updates
+Task filtering by status (Pending/Active/Finished)
+Responsive design
+Protected routes for authenticated users
+🔍 Technical Highlights:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Implemented JWT authentication
+Used Redux for centralized state management
+Built reusable React components
+Integrated REST API calls with Axios
+Applied modern JavaScript ES6+ features
